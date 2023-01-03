@@ -1,0 +1,15 @@
+#containers {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    width: 120px;
+    height: 120px;
+}
+
+.con1 { background-color: #ff002d; }
+.con2 { background-color: #ff0084; }
+.con3 { background-color: #ff00d9; }
+.con4 { background-color: #bf00ff; }
+.con5 { background-color: #7300ff; }
